@@ -7,7 +7,7 @@ With the right information we can all succeed together.
 
 
 Ginger Edu Project :
-* This is the first launch, this allows us to get user email and save it in a Google spreadsheet iorder to notify users when the website is completed.
+* This is the first launch, this allows us to get user email and save it in a Google spreadsheet inorder to notify users when the website is completed.
 
 Setup
 -----
